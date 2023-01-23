@@ -1,0 +1,7 @@
+#for environment variable 
+#.env  we can add by using this
+
+#for node modules
+node_modules
+.env
+
